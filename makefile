@@ -1,4 +1,4 @@
-proyecto.pdf: presentacion.tex 
+ proyecto.pdf: presentacion.tex 
 	pdflatex presentacion.tex
 	pdflatex presentacion.tex
 	pdflatex presentacion.tex
